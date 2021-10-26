@@ -1,0 +1,140 @@
+{
+  "guntest": {
+    "category": "master",
+    "sounds": [
+      "gunsound/gun1"
+    ]
+  },
+  "silentgun": {
+    "category": "master",
+    "sounds": [
+      "gunsound/silent"
+    ]
+  },
+  "reload11": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload10"
+    ]
+  },
+  "hit": {
+    "category": "master",
+    "sounds": [
+      "hit/hit"
+    ]
+  },
+  "hit2": {
+    "category": "master",
+    "sounds": [
+      "hit/hit2"
+    ]
+  },
+  "gundmr": {
+    "category": "master",
+    "sounds": [
+      "gunsound/dmr"
+    ]
+  },
+  "gun10": {
+    "category": "master",
+    "sounds": [
+      "gunsound/gun5"
+    ]
+  },
+  "gun2": {
+    "category": "master",
+    "sounds": [
+      "gunsound/gun2"
+    ]
+  },
+  "gunreload1": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload1"
+    ]
+  },
+  "gunreload2": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload2"
+    ]
+  },
+  "gunreload3": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload3"
+    ]
+  },
+  "zoom": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload5"
+    ]
+  },
+  "shotreload": {
+    "category": "master",
+    "sounds": [
+      "gunreload/shotgunreload1"
+    ]
+  },
+  "sniper": {
+    "category": "master",
+    "sounds": [
+      "gunsound/sniper2"
+    ]
+  },
+  "sniper2": {
+    "category": "master",
+    "sounds": [
+      "gunsound/sniper3"
+    ]
+  },
+  "sniper3": {
+    "category": "master",
+    "sounds": [
+      "gunsound/sniper1"
+    ]
+  },
+  "reload1": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload6"
+    ]
+  },
+  "reload2": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload7"
+    ]
+  },
+  "dmrreload": {
+    "category": "master",
+    "sounds": [
+      "gunreload/dmrreload"
+    ]
+  },
+  "reload9": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload9"
+    ]
+  },
+  "reload4": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload4"
+    ]
+  },
+  "sniperreload10": {
+    "category": "master",
+    "sounds": [
+      "gunreload/sniperreload"
+    ]
+  },
+  "reload3": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload8"
+    ]
+  }
+}

@@ -1,0 +1,4290 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF80A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF80B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF80D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF80E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF80F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF822"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF823"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF824"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF825"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF826"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF827"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF828"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF829"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF82A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF82B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF82C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF82D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF82E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF82F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF820"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF81A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF81B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF81C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF81D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF81E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF81F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF831"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF832"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF833"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF834"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF835"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF836"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF837"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF838"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF839"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF83A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF83B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF83C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF83D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF83E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF83F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF830"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:100.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:99.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue099"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:98.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue098"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:97.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue097"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:96.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue096"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:95.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue095"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:94.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue094"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:93.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue093"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:92.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue092"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:91.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue091"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:90.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue090"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:89.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:88.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:87.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:86.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:85.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:84.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:83.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:82.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:81.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:80.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:79.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:78.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:77.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:76.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:75.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:74.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:73.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:72.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:71.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:70.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:69.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:68.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:67.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:66.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:65.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:64.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:63.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:62.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:61.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:60.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:59.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:58.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:57.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:56.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:55.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:54.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:53.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:52.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:51.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:50.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:49.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:48.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:47.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:46.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:45.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:44.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:43.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:42.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:41.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:40.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:39.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:38.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:37.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:36.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:35.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:34.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:33.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:32.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:31.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:30.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:29.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:28.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:27.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:26.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:25.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:24.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:23.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:22.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:21.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:20.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:19.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:18.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:17.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:16.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:15.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:14.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:13.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:12.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:11.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:10.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:9.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:8.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:7.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:6.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:5.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:4.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:3.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:2.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:1.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:0.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\ue000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a100.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a99.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA099"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a98.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA098"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a97.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA097"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a96.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA096"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a95.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA095"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a94.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA094"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a93.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA093"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a92.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA092"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a91.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA091"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a90.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA090"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a89.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a88.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a87.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a86.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a85.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a84.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a83.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a82.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a81.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a80.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a79.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a78.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a77.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a76.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a75.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a74.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a73.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a72.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a71.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a70.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a69.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a68.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a67.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a66.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a65.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a64.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a63.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a62.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a61.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a60.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a59.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a58.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a57.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a56.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a55.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a54.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a53.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a52.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a51.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a50.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a49.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a48.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a47.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a46.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a45.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a44.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a43.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a42.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a41.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a40.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a39.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a38.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a37.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a36.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a35.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a34.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a33.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a32.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a31.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a30.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a29.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a28.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a27.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a26.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a25.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a24.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a23.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a22.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a21.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a20.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a19.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a18.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a17.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a16.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a15.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a14.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a13.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a12.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a11.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a10.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a9.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a8.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a7.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a6.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a5.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a4.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a3.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a2.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a1.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:a0.png",
+            "ascent": -3,
+            "height": 25,
+            "chars": [
+                "\uA000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f20.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f19.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f18.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f17.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f16.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f15.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f14.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f13.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f12.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f11.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f10.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f9.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f8.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f7.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f6.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f5.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f4.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f3.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f2.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f1.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:f0.png",
+            "ascent": -13,
+            "height": 100,
+            "chars": [
+                "\uF000"
+            ]
+        },
+        {
+            "type": "ttf",
+            "note": "Many thanks to AmberW#4615",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [
+                0.0,
+                0.0
+            ],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:generic_54.png",
+            "ascent": 13,
+            "height": 136,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:generic_27.png",
+            "ascent": 13,
+            "height": 82,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:heart.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\uA202"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:hi.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\uA203"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:lol.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\uA204"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:smile.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\uA205"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:gg.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\uA206"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory1.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory2.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory3.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory4.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory5.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory6.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory7.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory8.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory9.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory10.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory11.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory12.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory13.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory14.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory15.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory16.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory17.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:victory18.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat1.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1401"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat2.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1402"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat3.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1403"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat4.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1404"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat5.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1405"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat6.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1406"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat7.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1407"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat8.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1408"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat9.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1409"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat10.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1410"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat11.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1411"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat12.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1412"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat13.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1413"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat14.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1414"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat15.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1415"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat16.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1416"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat17.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1417"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat18.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1418"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat19.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1419"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat20.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1420"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat21.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1421"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat22.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1422"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat23.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1423"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:defeat24.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\u1424"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:rank1.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA301"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:rank2.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA302"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:rank3.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA303"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:rank4.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA304"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:rank5.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA305"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:rank6.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA306"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:unrank1.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uA307"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw1.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF401"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw2.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF402"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw3.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF403"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw4.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF404"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw5.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF405"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw6.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF406"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw7.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF407"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw8.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF408"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw9.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF409"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw10.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF410"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw11.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF411"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw12.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF412"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw13.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF413"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw14.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF414"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw15.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF415"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw16.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF416"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw17.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF417"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw18.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF418"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:draw19.png",
+            "ascent": 38,
+            "height": 74,
+            "chars": [
+                "\uF419"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:gamemaster.png",
+            "ascent": 11,
+            "height": 14,
+            "chars": [
+                "\uF501"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king52.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue452"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king51.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue451"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king50.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue450"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king49.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue449"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king48.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue448"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king47.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue447"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king46.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue446"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king45.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue445"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king44.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue444"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king43.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue443"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king42.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue442"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king41.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue441"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king40.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue440"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king39.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue439"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king38.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue438"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king37.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue437"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king36.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue436"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king35.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue435"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king34.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue434"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king33.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue433"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king32.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue432"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king31.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue431"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king30.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue430"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king29.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue429"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king28.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue428"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king27.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue427"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king26.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue426"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king25.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue425"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king24.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue424"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king23.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue423"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king22.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue422"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king21.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue421"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king20.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue420"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king19.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue419"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king18.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue418"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king17.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue417"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king16.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue416"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king15.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue415"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king14.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue414"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king13.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue413"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king12.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue412"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king11.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue411"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king10.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue410"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king9.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue409"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king8.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue408"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king7.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue407"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king6.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue406"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king5.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue405"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king4.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue404"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king3.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue403"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king2.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue402"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:king1.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\ue401"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:right.png",
+            "ascent": -46,
+	"height": 16,
+            "chars": ["\ue501"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:left.png",
+            "ascent": -46,
+	"height": 16,
+            "chars": ["\ue502"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill20.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue720"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill19.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue719"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill18.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue718"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill17.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue717"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill16.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue716"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill15.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue715"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill14.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue714"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill13.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue713"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill12.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue712"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill11.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue711"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill10.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue710"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill9.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue709"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill8.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue708"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill7.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue707"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill6.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue706"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill5.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue705"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill4.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue704"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill3.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue703"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill2.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue702"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.textures:kill1.png",
+            "ascent": 0,
+	"height": 64,
+            "chars": ["\ue701"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze14.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4114"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze13.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4113"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze12.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4112"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze11.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4111"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze10.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze9.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze8.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze7.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze6.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze5.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze4.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze3.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze2.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:bronze1.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4101"]
+        },
+       {
+            "type": "bitmap",
+            "file": "text.rank:silver14.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4214"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver13.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4213"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver12.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4212"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver11.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4211"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver10.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4210"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver9.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4209"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver8.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4208"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver7.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4207"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver6.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4206"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver5.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4205"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver4.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4204"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver3.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4203"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver2.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4202"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:silver1.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4201"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold14.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4314"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold13.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4313"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold12.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4312"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold11.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4311"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold10.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4310"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold9.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4309"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold8.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4308"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold7.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4307"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold6.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4306"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold5.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4305"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold4.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4304"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold3.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4303"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold2.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4302"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:gold1.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4301"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond14.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4414"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond13.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4413"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond12.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4412"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond11.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4411"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond10.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4410"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond9.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4409"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond8.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4408"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond7.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4407"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond6.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4406"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond5.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4405"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond4.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4404"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond3.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4403"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond2.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4402"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:diamond1.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4401"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby14.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4514"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby13.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4513"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby12.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4512"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby11.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4511"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby10.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4510"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby9.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4509"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby8.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4508"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby7.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4507"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby6.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4506"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby5.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4505"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby4.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4504"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby3.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4503"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby2.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4502"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.rank:ruby1.png",
+            "ascent": 38,
+	"height": 74,
+            "chars": ["\u4501"]
+        }
+    ]
+}

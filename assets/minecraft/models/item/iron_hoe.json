@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_hoe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "skin/whitebear"},
+		{ "predicate": {"custom_model_data":2}, "model": "skin/hoji"},
+		{ "predicate": {"custom_model_data":3}, "model": "skin/backas"},
+		{ "predicate": {"custom_model_data":4}, "model": "skin/gaon"},
+		{ "predicate": {"custom_model_data":5}, "model": "skin/sy"},
+		{ "predicate": {"custom_model_data":6}, "model": "gaon/dummy"}
+	]
+}
