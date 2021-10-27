@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "gaon/box",
-		"particle": "gaon/box"
+		"2": "gaon/ammo_box",
+		"particle": "gaon/ammo_box"
 	},
 	"elements": [
 		{
