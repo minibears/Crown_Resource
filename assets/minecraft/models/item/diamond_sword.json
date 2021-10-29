@@ -4,7 +4,6 @@
 		"layer0": "item/diamond_sword"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data":1}, "model": "gaon/ammobox"},
-		{ "predicate": {"custom_model_data":2}, "model": "gaon/iron_door"}
+		{ "predicate": {"custom_model_data":1}, "model": "gaon/ammobox"}
 	]
 }
