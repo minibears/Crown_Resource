@@ -17,6 +17,12 @@
       "gunreload/reload10"
     ]
   },
+  "reload12": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload11"
+    ]
+  },
   "hit": {
     "category": "master",
     "sounds": [
