@@ -137,6 +137,12 @@
       "gunreload/sniperreload"
     ]
   },
+  "reload3_1": {
+    "category": "master",
+    "sounds": [
+      "gunreload/reload12"
+    ]
+  },
   "reload3": {
     "category": "master",
     "sounds": [
