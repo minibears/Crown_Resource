@@ -4285,6 +4285,321 @@
             "ascent": 38,
 	"height": 74,
             "chars": ["\u4501"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:tle.png",
+            "ascent": -45,
+	"height": 65,
+            "chars": ["\uF700"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:shotmode1.png",
+            "ascent": -42,
+	"height": 20,
+            "chars": ["\uA500"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:shotmode2.png",
+            "ascent": -42,
+	"height": 20,
+            "chars": ["\uA501"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:shotmode3.png",
+            "ascent": -42,
+	"height": 20,
+            "chars": ["\uA502"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo40.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF240"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo39.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF239"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo38.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF238"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo37.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF237"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo36.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF236"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo35.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF235"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo34.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF234"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo33.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF233"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo32.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF232"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo31.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF231"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo30.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF230"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo29.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF229"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo28.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF228"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo27.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF227"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo26.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF226"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo25.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF225"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo24.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF224"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo23.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF223"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo22.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF222"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo21.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF221"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo20.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF220"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo19.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF219"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo18.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF218"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo17.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF217"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo16.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF216"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo15.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF215"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo14.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF214"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo13.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF213"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo12.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF212"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo11.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF211"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo10.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF210"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo9.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF209"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo8.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF208"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo7.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF207"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo6.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF206"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo5.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF205"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo4.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF204"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo3.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF203"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo2.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF202"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo1.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF201"]
+        },
+        {
+            "type": "bitmap",
+            "file": "text.ui:ammo.png",
+            "ascent": -48,
+	"height": 19,
+            "chars": ["\uF200"]
         }
     ]
 }
