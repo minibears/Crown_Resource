@@ -125,6 +125,12 @@
       "gunreload/dmrreload"
     ]
   },
+  "dmrreload1": {
+    "category": "master",
+    "sounds": [
+      "gunreload/dmrreload1"
+    ]
+  },
   "reload9": {
     "category": "master",
     "sounds": [

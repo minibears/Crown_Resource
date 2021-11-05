@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "cgu/gun/xenon/default"},
+		{ "predicate": {"custom_model_data":2}, "model": "cgu/gun/xenics/default"},
+		{ "predicate": {"custom_model_data":3}, "model": "cgu/gun/viper/default"},
+		{ "predicate": {"custom_model_data":4}, "model": "cgu/gun/python/default"},
+		{ "predicate": {"custom_model_data":5}, "model": "cgu/gun/aqua/default"},
+		{ "predicate": {"custom_model_data":6}, "model": "cgu/gun/balrog/default"}
+	]
+}
