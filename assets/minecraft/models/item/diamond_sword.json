@@ -4,6 +4,16 @@
 		"layer0": "item/diamond_sword"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data":1}, "model": "gaon/ammobox"}
+		{ "predicate": {"custom_model_data":1}, "model": "gaon/ammobox"},
+		{ "predicate": {"custom_model_data":2}, "model": "gaon/0"},
+		{ "predicate": {"custom_model_data":3}, "model": "gaon/1"},
+		{ "predicate": {"custom_model_data":4}, "model": "gaon/2"},
+		{ "predicate": {"custom_model_data":5}, "model": "gaon/3"},
+		{ "predicate": {"custom_model_data":6}, "model": "gaon/4"},
+		{ "predicate": {"custom_model_data":7}, "model": "gaon/5"},
+		{ "predicate": {"custom_model_data":8}, "model": "gaon/6"},
+		{ "predicate": {"custom_model_data":9}, "model": "gaon/7"},
+		{ "predicate": {"custom_model_data":10}, "model": "gaon/8"},
+		{ "predicate": {"custom_model_data":11}, "model": "gaon/9"}
 	]
 }
