@@ -15,7 +15,8 @@
 		{ "predicate": {"custom_model_data":9}, "model": "gaon/7"},
 		{ "predicate": {"custom_model_data":10}, "model": "gaon/8"},
 		{ "predicate": {"custom_model_data":11}, "model": "gaon/9"},
-		{ "predicate": {"custom_model_data":12}, "model": "gaon/generator"}
+		{ "predicate": {"custom_model_data":12}, "model": "gaon/generator"},
+		{ "predicate": {"custom_model_data":13}, "model": "gaon/can1"}
 		
 	]
 }
