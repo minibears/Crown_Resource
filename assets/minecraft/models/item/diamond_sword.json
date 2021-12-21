@@ -17,7 +17,8 @@
 		{ "predicate": {"custom_model_data":11}, "model": "gaon/9"},
 		{ "predicate": {"custom_model_data":12}, "model": "gaon/generator"},
 		{ "predicate": {"custom_model_data":13}, "model": "gaon/can1"},
-		{ "predicate": {"custom_model_data":14}, "model": "gaon/painkiller"}
+		{ "predicate": {"custom_model_data":14}, "model": "gaon/painkiller"},
+		{ "predicate": {"custom_model_data":15}, "model": "gaon/healkit"}
 		
 	]
 }
