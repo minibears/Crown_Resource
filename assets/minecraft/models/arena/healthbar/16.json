@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "arena/healthbar/a85",
+		"particle": "arena/healthbar/a2"
+	},
+	"elements": [
+		{
+			"from": [-12, 0, 6],
+			"to": [28, 3, 7],
+			"faces": {
+				"north": {"uv": [1.375, 2.125, 14.375, 3.125], "texture": "#0"},
+				"east": {"uv": [14.125, 2.125, 14.375, 3.125], "texture": "#0"},
+				"south": {"uv": [14.125, 2.125, 14.375, 3.125], "texture": "#0"},
+				"west": {"uv": [14.125, 2.125, 14.375, 3.125], "texture": "#0"},
+				"up": {"uv": [1.375, 2.125, 14.375, 2.375], "texture": "#0"},
+				"down": {"uv": [1.375, 2.125, 14.375, 2.375], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27.5, 5.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}
